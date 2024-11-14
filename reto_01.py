@@ -33,4 +33,3 @@ def actions(letter,num, i, n):
     return num, i, n
 
 print(decoder(528934712834,'URDURUDRUDLLLLUUDDUDUDUDLLRRRR'))
-# print(len([0,0,0]))
